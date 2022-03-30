@@ -19,9 +19,37 @@
   7. Click the setting button, click the pairing button from the drop-down menu, the speaker enters the pairing state
   
   ![home image](https://github.com/niteapps/vgear/blob/main/image12004.jpg)
+  
+  8. Open the Settings App of the iphone and enter the Bluetooth settings page
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12005.jpg)
+  
+  9. Click to select your speaker, pair and connect with your iphone
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12006.jpg)
+  
+  10. Return to the VGEAR app, you will find that the speaker has been updated, showing that it is connected to the phone
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12007.jpg)
+  
+  11. Click the speaker, and go to the "Home" page. You can start to let the speaker play the music in the iphone.
+      You can also adjust the volume and set the EQ effect
+      
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12008.jpg)
+  
+  
+  ## 二, Follow the steps below to group your speaker ##
 
-
-
+  1. Click the "Create New Group" button on the "My Speakers" page, and go to Group page
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12010.jpg)
+  
+  2. Select a master speaker, and select one or more sub speakers, and click the "Create Group" button to start create a group
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12011.jpg)
+  
+  3. During the grouping process, please do not leave this page
+  
 
 
 
