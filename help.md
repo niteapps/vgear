@@ -49,6 +49,11 @@
   ![home image](https://github.com/niteapps/vgear/blob/main/image12011.jpg)
   
   3. During the grouping process, please do not leave this page
+  4. After the grouping is completed, you will return to the "My Speakers" page and you will see something similar to the following
+  
+  ![home image](https://github.com/niteapps/vgear/blob/main/image12013.jpg)
+  
+  5. You can perform corresponding operations on the master and sub speakers
   
 
 
